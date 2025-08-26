@@ -46,7 +46,6 @@ npm install
 npm run dev
 
 
-Open app in browser 👉 http://localhost:5173
 
 📂 Project Structure
 book-finder/
